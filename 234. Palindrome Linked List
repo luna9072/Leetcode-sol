@@ -28,3 +28,4 @@ class Solution:
         return False
       slow = slow.next
       head = head.next
+    return True
